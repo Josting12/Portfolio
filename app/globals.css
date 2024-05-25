@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+html,body{
+
+color: white ;
+background: #1f1934; /* 0B4A5C 0084AA #0d47a1(azul god) */
+}
+
+main{
+  background: #393a47;
+  height: 108 vh;
+  height: 100 dvh;
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}
