@@ -9,17 +9,17 @@ export const socialNetworks = [
     {
         id: 2,
         logo: <Linkedin size={30} strokeWidth={1} />,
-        src: "#!",
+        src: "https://www.linkedin.com/in/josting-ramos-257a73146/",
     },
     {
         id: 3,
         logo: <Instagram size={30} strokeWidth={1} />,
-        src: "#!",
+        src: "https://www.instagram.com/jou_1211/",
     },
     {
         id: 4,
         logo: <Github size={30} strokeWidth={1} />,
-        src: "#!",
+        src: "https://github.com/Josting12",
     },
     
 
@@ -150,29 +150,29 @@ export const dataPortfolio = [
         id: 1,
         title: "ScriptRaptor",
         image: "/Script.png",
-        urlGithub: "#!",
+        urlGithub: "",
         urlDemo: "https://scriptraptor.tech/",
     },
     {
         id: 2,
-        title: "Desarrollo Web Ágil",
-        image: "/image-2.jpg",
-        urlGithub: "#!",
-        urlDemo: "#!",
+        title: "Colores con IA",
+        image: "/Colores.png",
+        urlGithub: "https://github.com/Josting12/Formulario-con-IA",
+        urlDemo: "",
     },
     {
         id: 3,
-        title: "Estrategias Web",
-        image: "/image-3.jpg",
+        title: "Netflix ",
+        image: "/Netflix.png",
         urlGithub: "https://github.com/Josting12/Netflixjs ",
         urlDemo: "https://netflixjs-kouwtho5n-josting12.vercel.app/",
     },
     {
         id: 4,
-        title: "Ideas Creativas",
-        image: "/image-4.jpg",
-        urlGithub: "#!",
-        urlDemo: "#!",
+        title: "Portafolio",
+        image: "/porta.png",
+        urlGithub: "https://github.com/Josting12/Portfolio",
+        urlDemo: "https://jostingramos-portfolio.netlify.app",
     },
     
 ];
