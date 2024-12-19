@@ -150,8 +150,8 @@ export const dataPortfolio = [
         id: 1,
         title: "ScriptRaptor",
         image: "/Script.png",
-        urlGithub: "",
-        urlDemo: "https://scriptraptor.tech/",
+        urlGithub: "https://gitlab.com/NelsonRodriguez7/portafolio-web",
+        urlDemo: "https://portafolio-web-nelsonrodriguez7.vercel.app/",
     },
     {
         id: 2,
